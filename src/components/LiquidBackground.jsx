@@ -162,7 +162,7 @@ export default function LiquidBackground() {
     <div className="fixed inset-0 z-0 pointer-events-none overflow-hidden bg-[#030108]">
       {/* Attached reference gradient image gently drifting as base layer */}
       <img
-        src="/images/liquid-gradient-ref.jpg"
+        src="./images/liquid-gradient-ref.jpg"
         alt=""
         aria-hidden="true"
         className="absolute inset-0 w-full h-full object-cover opacity-55 scale-125 liquid-img-drift"

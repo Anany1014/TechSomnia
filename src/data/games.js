@@ -9,8 +9,8 @@ export const HERO_SLIDES = [
     metacritic: 89,
     tag: 'CLOUD RTX 4080',
     players: '412,800',
-    heroImage: '/images/real/wukong-hero.jpg',
-    image: '/images/real/wukong.jpg',
+    heroImage: './images/real/wukong-hero.jpg',
+    image: './images/real/wukong.jpg',
     subtitle:
       'Set out as the Destined One in an action RPG rooted in Chinese mythology. Master staff stances, transformations, and ruthless mythic bosses.',
     specs: '4K HDR · 120 FPS · Ray Tracing Overdrive · Controller Recommended',
@@ -31,8 +31,8 @@ export const HERO_SLIDES = [
     metacritic: 90,
     tag: 'DUALSENSE READY',
     players: '198,400',
-    heroImage: '/images/real/spiderman2-hero.jpg',
-    image: '/images/real/spiderman2.jpg',
+    heroImage: './images/real/spiderman2-hero.jpg',
+    image: './images/real/spiderman2.jpg',
     subtitle:
       'Swing, jump, and utilize the new Web Wings to travel across Marvel’s New York, switching seamlessly between Peter Parker and Miles Morales.',
     specs: '4K Ultrawide · 120 FPS · DualSense Adaptive Triggers',
@@ -53,8 +53,8 @@ export const HERO_SLIDES = [
     metacritic: 96,
     tag: 'GAME OF THE YEAR',
     players: '326,900',
-    heroImage: '/images/real/eldenring-hero.jpg',
-    image: '/images/real/eldenring.jpg',
+    heroImage: './images/real/eldenring-hero.jpg',
+    image: './images/real/eldenring.jpg',
     subtitle:
       'Rise, Tarnished, and step into the Land of Shadow. Discover uncharted dungeons, lethal armaments, and Miquella’s hidden footsteps.',
     specs: '4K 60 FPS · HDR10 · Cross-Save Cloud Sync',
@@ -75,8 +75,8 @@ export const HERO_SLIDES = [
     metacritic: 85,
     tag: 'FREE TO PLAY',
     players: '784,200',
-    heroImage: '/images/real/valorant-hero.jpg',
-    image: '/images/real/valorant-card.jpg',
+    heroImage: './images/real/valorant-hero.jpg',
+    image: './images/real/valorant-card.jpg',
     subtitle:
       'Blend sharp gunplay with unique tactical agent abilities in 5v5 character-based competitive matches running on 128-tick low-latency servers.',
     specs: '240 FPS Competitive Mode · 9ms Edge Latency · Free to Play',
@@ -97,8 +97,8 @@ export const HERO_SLIDES = [
     metacritic: 92,
     tag: 'OPEN WORLD RACING',
     players: '142,600',
-    heroImage: '/images/real/forza5-hero.jpg',
-    image: '/images/real/forza5.jpg',
+    heroImage: './images/real/forza5-hero.jpg',
+    image: './images/real/forza5.jpg',
     subtitle:
       'Lead breathtaking expeditions across the vibrant and ever-evolving open world landscapes of Mexico in hundreds of the world’s greatest cars.',
     specs: '4K Extreme · 120 FPS · Wheel & Gamepad Telemetry',
@@ -133,8 +133,8 @@ export const TRENDING_GAMES = [
     metacritic: 90,
     year: 2023,
     accessTag: 'RTX OVERDRIVE',
-    image: '/images/real/cyberpunk.jpg',
-    heroImage: '/images/real/cyberpunk-hero.jpg',
+    image: './images/real/cyberpunk.jpg',
+    heroImage: './images/real/cyberpunk-hero.jpg',
     description:
       'Become V, a cyber-enhanced mercenary outlaw going after a one-of-a-kind implant in Night City, including the spy-thriller expansion Phantom Liberty.',
     controls: [
@@ -155,8 +155,8 @@ export const TRENDING_GAMES = [
     metacritic: 85,
     year: 2024,
     accessTag: 'FREE TO PLAY',
-    image: '/images/real/valorant-card.jpg',
-    heroImage: '/images/real/valorant-hero.jpg',
+    image: './images/real/valorant-card.jpg',
+    heroImage: './images/real/valorant-hero.jpg',
     description:
       '5v5 character-based tactical shooter where precise gunplay meets unique agent abilities across global competitive ranks.',
     controls: [
@@ -177,8 +177,8 @@ export const TRENDING_GAMES = [
     metacritic: 83,
     year: 2024,
     accessTag: '4-PLAYER CO-OP',
-    image: '/images/real/helldivers2.jpg',
-    heroImage: '/images/real/helldivers2.jpg',
+    image: './images/real/helldivers2.jpg',
+    heroImage: './images/real/helldivers2.jpg',
     description:
       'Enlist in the Helldivers and join a 4-player squad fighting for freedom across a hostile galaxy with orbital stratagems.',
     controls: [
@@ -199,8 +199,8 @@ export const TRENDING_GAMES = [
     metacritic: 89,
     year: 2024,
     accessTag: 'CLOUD 4K',
-    image: '/images/real/ghost.jpg',
-    heroImage: '/images/real/ghost-hero.jpg',
+    image: './images/real/ghost.jpg',
+    heroImage: './images/real/ghost-hero.jpg',
     description:
       'Forge a new path as Jin Sakai and wage an unconventional war for the freedom of Tsushima across wind-swept fields and shrines.',
     controls: [
@@ -221,8 +221,8 @@ export const TRENDING_GAMES = [
     metacritic: 96,
     year: 2024,
     accessTag: 'GTA ONLINE',
-    image: '/images/real/gtav.jpg',
-    heroImage: '/images/real/gtav.jpg',
+    image: './images/real/gtav.jpg',
+    heroImage: './images/real/gtav.jpg',
     description:
       'Experience Rockstar Games’ critically acclaimed open world across Los Santos and Blaine County with full GTA Online cloud progression.',
     controls: [
@@ -246,8 +246,8 @@ export const CURATED_FOR_YOU = [
     metacritic: 94,
     year: 2024,
     accessTag: 'PLAYSTATION PC',
-    image: '/images/real/gowragnarok.jpg',
-    heroImage: '/images/real/gowragnarok.jpg',
+    image: './images/real/gowragnarok.jpg',
+    heroImage: './images/real/gowragnarok.jpg',
     description:
       'Kratos and Atreus embark on a mythic journey through the Nine Realms for answers before the prophesied battle of Ragnarök.',
     controls: [
@@ -268,8 +268,8 @@ export const CURATED_FOR_YOU = [
     metacritic: 91,
     year: 2024,
     accessTag: '120 FPS',
-    image: '/images/real/hades2.jpg',
-    heroImage: '/images/real/hades2.jpg',
+    image: './images/real/hades2.jpg',
+    heroImage: './images/real/hades2.jpg',
     description:
       'Battle beyond the Underworld using dark sorcery to take on the Titan of Time as Melinoë, immortal Princess of the Underworld.',
     controls: [
@@ -290,8 +290,8 @@ export const CURATED_FOR_YOU = [
     metacritic: 83,
     year: 2023,
     accessTag: 'FREE TO PLAY',
-    image: '/images/real/cs2.jpg',
-    heroImage: '/images/real/cs2.jpg',
+    image: './images/real/cs2.jpg',
+    heroImage: './images/real/cs2.jpg',
     description:
       'Powered by Source 2 with sub-tick server architecture, volumetric dynamic smoke grenades, and premier competitive matchmaking.',
     controls: [
@@ -312,8 +312,8 @@ export const CURATED_FOR_YOU = [
     metacritic: 96,
     year: 2023,
     accessTag: 'GOTY WINNER',
-    image: '/images/real/baldursgate3.jpg',
-    heroImage: '/images/real/baldursgate3.jpg',
+    image: './images/real/baldursgate3.jpg',
+    heroImage: './images/real/baldursgate3.jpg',
     description:
       'Gather your party and return to the Forgotten Realms in a tale of fellowship, betrayal, and absolute power forged in Dungeons & Dragons.',
     controls: [
@@ -337,8 +337,8 @@ export const CATALOG_GAMES = [
     metacritic: 89,
     year: 2024,
     accessTag: 'RTX 4080',
-    image: '/images/real/wukong.jpg',
-    heroImage: '/images/real/wukong-hero.jpg',
+    image: './images/real/wukong.jpg',
+    heroImage: './images/real/wukong-hero.jpg',
     description:
       'Confront ancient Yaoguai kings in high-precision mythic staff combat built on Unreal Engine 5.',
     controls: [
@@ -358,8 +358,8 @@ export const CATALOG_GAMES = [
     metacritic: 96,
     year: 2024,
     accessTag: 'MASTERPIECE',
-    image: '/images/real/eldenring.jpg',
-    heroImage: '/images/real/eldenring-hero.jpg',
+    image: './images/real/eldenring.jpg',
+    heroImage: './images/real/eldenring-hero.jpg',
     description:
       'Traverse the breathtaking Lands Between and the Land of Shadow to claim the Elden Ring.',
     controls: [
@@ -379,8 +379,8 @@ export const CATALOG_GAMES = [
     metacritic: 90,
     year: 2025,
     accessTag: 'ULTRAAWIDE',
-    image: '/images/real/spiderman2.jpg',
-    heroImage: '/images/real/spiderman2-hero.jpg',
+    image: './images/real/spiderman2.jpg',
+    heroImage: './images/real/spiderman2-hero.jpg',
     description:
       'Face Venom and Kraven the Hunter across Manhattan, Brooklyn, and Queens.',
     controls: [
@@ -400,8 +400,8 @@ export const CATALOG_GAMES = [
     metacritic: 92,
     year: 2024,
     accessTag: '120 FPS',
-    image: '/images/real/forza5.jpg',
-    heroImage: '/images/real/forza5-hero.jpg',
+    image: './images/real/forza5.jpg',
+    heroImage: './images/real/forza5-hero.jpg',
     description:
       'Open-world festival racing across volcanoes, jungles, and coastal highways in Mexico.',
     controls: [
@@ -421,8 +421,8 @@ export const CATALOG_GAMES = [
     metacritic: 88,
     year: 2024,
     accessTag: 'FREE TO PLAY',
-    image: '/images/real/apex.jpg',
-    heroImage: '/images/real/apex.jpg',
+    image: './images/real/apex.jpg',
+    heroImage: './images/real/apex.jpg',
     description:
       'Conquer with character in Respawn’s high-velocity squad battle royale shooter.',
     controls: [
@@ -442,8 +442,8 @@ export const CATALOG_GAMES = [
     metacritic: 86,
     year: 2024,
     accessTag: 'FREE TO PLAY',
-    image: '/images/real/rocketleague.jpg',
-    heroImage: '/images/real/rocketleague.jpg',
+    image: './images/real/rocketleague.jpg',
+    heroImage: './images/real/rocketleague.jpg',
     description:
       'High-powered hybrid of arcade-style soccer and vehicular mayhem with physics-driven aerial play.',
     controls: [
@@ -463,8 +463,8 @@ export const CATALOG_GAMES = [
     metacritic: 93,
     year: 2023,
     accessTag: 'NEXT-GEN UPDATE',
-    image: '/images/real/witcher3.jpg',
-    heroImage: '/images/real/witcher3.jpg',
+    image: './images/real/witcher3.jpg',
+    heroImage: './images/real/witcher3.jpg',
     description:
       'Play as Geralt of Rivia, a monster slayer for hire, tracking down the Child of Prophecy in a war-torn fantasy world.',
     controls: [
@@ -484,8 +484,8 @@ export const CATALOG_GAMES = [
     metacritic: 90,
     year: 2023,
     accessTag: 'CLOUD SAVES',
-    image: '/images/real/hollowknight.jpg',
-    heroImage: '/images/real/hollowknight.jpg',
+    image: './images/real/hollowknight.jpg',
+    heroImage: './images/real/hollowknight.jpg',
     description:
       'Forge your own path through Hallownest, a vast ruined subterranean kingdom of insects and heroes.',
     controls: [
